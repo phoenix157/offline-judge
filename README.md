@@ -1,5 +1,6 @@
 # offline-judge
-Offline judge to compile and test your code with given input
+Offline judge to compile and test your code with given input.
+
 Works for c,cpp,java
 
 How does it work-
